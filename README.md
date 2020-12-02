@@ -14,8 +14,10 @@ I'm Felipe Rosa Serpeloni.
 [<img src="https://img.shields.io/badge/fserpeloni%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/fserpeloni) [<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/felipe-serpeloni-947838b/)
 
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=serpeloni&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=serpeloni&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serpeloni)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serpeloni&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
